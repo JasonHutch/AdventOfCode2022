@@ -30,10 +30,6 @@ function hasOverlap(line) {
     var pair2 = pairs[1].split("-");
     var smallestUpperBound = Math.min(pair1[1], pair2[1]);
 
-    console.log(smallestUpperBound);
-    console.log(pair1);
-    console.log(pair2);
-
      if((pair1[0] == pair2[0]) || (pair1[1] == pair2[1])) {
          return true;
      }
