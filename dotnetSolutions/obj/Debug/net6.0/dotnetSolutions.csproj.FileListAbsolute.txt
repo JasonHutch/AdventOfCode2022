@@ -1,0 +1,15 @@
+C:\AdventOfCode2022\dotnetSolutions\bin\Debug\net6.0\dotnetSolutions.exe
+C:\AdventOfCode2022\dotnetSolutions\bin\Debug\net6.0\dotnetSolutions.deps.json
+C:\AdventOfCode2022\dotnetSolutions\bin\Debug\net6.0\dotnetSolutions.runtimeconfig.json
+C:\AdventOfCode2022\dotnetSolutions\bin\Debug\net6.0\dotnetSolutions.dll
+C:\AdventOfCode2022\dotnetSolutions\bin\Debug\net6.0\ref\dotnetSolutions.dll
+C:\AdventOfCode2022\dotnetSolutions\bin\Debug\net6.0\dotnetSolutions.pdb
+C:\AdventOfCode2022\dotnetSolutions\obj\Debug\net6.0\dotnetSolutions.csproj.AssemblyReference.cache
+C:\AdventOfCode2022\dotnetSolutions\obj\Debug\net6.0\dotnetSolutions.GeneratedMSBuildEditorConfig.editorconfig
+C:\AdventOfCode2022\dotnetSolutions\obj\Debug\net6.0\dotnetSolutions.AssemblyInfoInputs.cache
+C:\AdventOfCode2022\dotnetSolutions\obj\Debug\net6.0\dotnetSolutions.AssemblyInfo.cs
+C:\AdventOfCode2022\dotnetSolutions\obj\Debug\net6.0\dotnetSolutions.csproj.CoreCompileInputs.cache
+C:\AdventOfCode2022\dotnetSolutions\obj\Debug\net6.0\dotnetSolutions.dll
+C:\AdventOfCode2022\dotnetSolutions\obj\Debug\net6.0\ref\dotnetSolutions.dll
+C:\AdventOfCode2022\dotnetSolutions\obj\Debug\net6.0\dotnetSolutions.pdb
+C:\AdventOfCode2022\dotnetSolutions\obj\Debug\net6.0\dotnetSolutions.genruntimeconfig.cache

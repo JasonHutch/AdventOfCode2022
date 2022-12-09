@@ -48,7 +48,6 @@ async function buildStacks() {
     return {stacks, instructions}
 }
 
-
 function reorderStacks(stackObj) {
     var instructionSplit = stackObj.instructions.split("\r\n");
     var stacks = stackObj.stacks;
