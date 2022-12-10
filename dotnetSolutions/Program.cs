@@ -1,12 +1,12 @@
 ﻿using System;
 
-namespace Advent_Of_Code_2022.Day7
+namespace Advent_Of_Code_2022.Day8
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Day7Part2 question = new Day7Part2();
+            Day8Part2 question = new Day8Part2();
             question.run();
         }
     }
